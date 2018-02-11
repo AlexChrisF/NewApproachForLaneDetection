@@ -17,3 +17,7 @@ You need Matlab 2017a or newer, Simulink with Computer Vision System Toolbox ins
 ## Run it
 
 You can simply run the simulation by executing the Spurerkennung.slx file
+
+
+
+![Norma](https://github.com/AlexChrisF/NewApproachForLaneDetection/blob/master/Pictures/normal.png)
