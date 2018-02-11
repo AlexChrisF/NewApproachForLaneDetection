@@ -17,12 +17,12 @@ dis = abs(REGION_3-REGION_4);
 dis_2 = abs(REGION_3-REGION_2);
 dis_3 = abs(REGION_2-REGION_1);
 dis_sum = dis + dis_2 + dis_3;
-disp(dis_sum)
-
-if(dis_sum > 0 && dis_sum < 100)
+if(dis_sum > 0 && dis_sum < 150)
     counter = counter + 1;
+   disp(counter)
     if (counter == 10)
         normal_detected = true;
+        counter = 0;
     end
 end
 
