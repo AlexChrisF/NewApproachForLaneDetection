@@ -24,7 +24,7 @@ You can simply run the simulation by executing the Spurerkennung.slx file
 
 ![Norma](https://github.com/AlexChrisF/NewApproachForLaneDetection/blob/master/Pictures/crosswalk.png)
 
-![Norma](https://github.com/AlexChrisF/NewApproachForLaneDetection/blob/master/Pictures/junction.png)
+![Norma](https://github.com/AlexChrisF/NewApproachForLaneDetection/blob/master/Pictures/Junction.png)
 
 
 
