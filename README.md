@@ -4,6 +4,9 @@ This project is a new approach for detecting the lanes.
 It's main feature is a region based lane detection, filters add probabilities. 
 The point with the hightest probablity in each region is considered a part of lane.
 
+The projects architecture pattern is based on pipes-and-filters. So it's really easy to add new functionality.
+Furthermore a state machine is implemented, so there is a state based bavior for lane detection.
+
 It all runs on a Raspberry 2B at 50fps
 
 ## Getting Started
